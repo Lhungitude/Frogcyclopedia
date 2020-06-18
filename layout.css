@@ -1,0 +1,5 @@
+body {
+	background-image: url(grass.jpg);
+	background-size: cover;
+	background-repeat: no-repeat center center fixed;
+}
